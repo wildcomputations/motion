@@ -1,0 +1,15 @@
+1) Implement forward kinematics.
+2) Implement inverse kinematics using pseudo jacobian
+3) Implement inverse kinematics using FABRIK
+4) Control loop for end effector to follow paths
+
+
+... 
+read in a font
+handle arbitrary letter input
+implementation on actual robot
+pencil grasping and identification of pencil - paper contact position (force
+feedback?)
+
+
+Note: each implementation includes documentation and testing

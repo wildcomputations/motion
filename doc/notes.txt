@@ -1,0 +1,8 @@
+joint space potential field or joint limit check 
+
+
+Possible libraries I might need to depend on
+- matrix computations
+    - eigen
+    - boost ublas
+    - armadillo
